@@ -1,5 +1,7 @@
 # poke's projects
-various programs coded by joshua grizzell, all in one neat lil space just for you :)
+various programs created by joshua grizzell, all in one neat lil space just for you :)
 
-# notable projects
+## notable projects
+###### I Wanna Be The Ø
 
+I Wanna Be The Ø is a fangame based on the cult classic tough-as-nails freeware game, "I Wanna Be The Guy." 
