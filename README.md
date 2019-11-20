@@ -1,6 +1,7 @@
+<i><b>This page is under construction at the moment. I will need a portfolio in the future, after all...</b></i>
+
 # poke's projects
 various programs created by joshua grizzell, all in one neat lil space just for you :)
-<i><b>This page is under construction at the moment. I will need a portfolio in the future, after all...</b></i>
 
 ## I Wanna Be The Ø
 I Wanna Be The Ø is a fangame based on the cult classic tough-as-nails freeware game <i>I Wanna Be The Guy.</i>
