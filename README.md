@@ -9,6 +9,6 @@ I Wanna Be The Ø is a fangame based on the cult classic tough-as-nails freeware
 - Nothing, because I haven't uploaded it to github and it's not finished!
 
 ## DOOM Maps
-I've made various doom maps, featuring 3D sectors, ramps, and custom textures.
+I've made various DOOM maps, featuring 3D sectors, ramps, and custom textures.
 ###### Maps List
-- Galactic Nova Zone, a map created for SRB2Kart.
+- Galactic Nova Zone, a map created for SRB2Kart, a mod on top of a mod for DOOM. Huh.
